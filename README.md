@@ -2,6 +2,8 @@
 
 This repository contains two Microsoft Excel files that demonstrate the creation of an interactive Sales Dashboard. These files showcase how to use Excel to visualize sales data, providing insights and supporting data-driven decision-making.
 
+![Sales Dashboard](Sales-Dashboard-Excel.png)
+
 ## Files Included
 
 1. **Sales-Dashboard-practice-file.xlsx**: This file includes the practice version of the Sales Dashboard. It is designed for users to explore and understand the basics of creating a sales dashboard in Excel.
@@ -37,6 +39,6 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/menchiebrnll/).
+If you have any questions or need further assistance, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/menchiebrnll/).
 
 Happy Dashboarding!
