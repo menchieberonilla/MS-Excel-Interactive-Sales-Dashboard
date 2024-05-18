@@ -2,7 +2,7 @@
 
 This repository contains two Microsoft Excel files that demonstrate the creation of an interactive Sales Dashboard. These files showcase how to use Excel to visualize sales data, providing insights and supporting data-driven decision-making.
 
-![Sales Dashboard](Sales Dashboard-Excel.png)
+![Sales Dashboard](Sales-Dashboard-Excel.png)
 
 ## Files Included
 
