@@ -37,6 +37,6 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/menchiebrnll/)).
+If you have any questions or need further assistance, please feel free to contact me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/menchiebrnll/).
 
 Happy Dashboarding!
